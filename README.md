@@ -1,6 +1,6 @@
 # hello-world
 
-Hllo there! 
+Hello There!
 
 Myself Sanjana. I'm a programmer, i know c++, python, java, js, html, css.
 
